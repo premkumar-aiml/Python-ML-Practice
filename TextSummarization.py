@@ -48,7 +48,7 @@ for sentence in sentenceValue:
 print("I am sum value:", sumValues)
 average = int(sumValues / len(sentenceValue)) 
 
-print("I am average Value", average)
+print("I am average Value:", average)
    
 # Using each sentense score and the hurstic value of 1.2 find the most frequently used sentence in the given text.
 summary = '' 
