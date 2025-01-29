@@ -36,7 +36,7 @@ for sentence in sentences:
                 sentenceValue[sentence] += freq 
             else: 
                 sentenceValue[sentence] = freq 
-print (sentenceValue)
+print ('sentence:',sentenceValue)
 
 # Calculate the average value of original text using it's sentence score
 
